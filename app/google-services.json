@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "406660683556",
+    "firebase_url": "https://pdfirebaseproject-55ceb.firebaseio.com",
+    "project_id": "pdfirebaseproject-55ceb",
+    "storage_bucket": "pdfirebaseproject-55ceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406660683556:android:bbc45273d1e779cc0ac5b1",
+        "android_client_info": {
+          "package_name": "com.example.pd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406660683556-qi0t37cg4i1c63t32jddt6444mv0kg92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pd",
+            "certificate_hash": "e90b0a5950f66087c661db3aecc1e0e6437395bf"
+          }
+        },
+        {
+          "client_id": "406660683556-841f52bogb35g540a79o8d5ist8mec9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqVQk1EvaWjc_DWikwaV4AWC1Q8SOOvLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406660683556-841f52bogb35g540a79o8d5ist8mec9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
